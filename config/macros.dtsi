@@ -1,8 +1,0 @@
-/ {
-    macros {
-        alt_shift_macro: alt_shift {
-            bindings = <&kp LALT &kp LSHFT>;
-        };
-        // Add more macros here as needed
-    };
-};
